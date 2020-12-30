@@ -1,0 +1,26 @@
+Unscramble Computer Science Problems
+
+** Task0.py **
+Time Complexity: O(1)
+Analysis: No impact of input on run time
+
+
+** Task1.py **
+Time Complexity: O(n)
+Analysis: As there are two lists, and they are looped through once each. Since, they are not nested loops, the complexity is O(n)
+
+
+** Task2.py **
+Time Complexity: O(n)
+Analysis: Main List is looped through once, hence O(n)
+
+
+** Task3.py **
+Time Complexity: O(n log n)
+Analysis: O(n) complexity for the For loop and O(n log(n)) for the Quick sort (https://www.bigocheatsheet.com/), as we are considering the more
+dominant Big-O notation (O(n log n) > O(n)), the time complexity for this task would be O (n logn)
+
+** Task4.py **
+Time Complexity: O(n log n)
+Analysis: O(n) complexity for the For loop and O(n log(n)) for the Quick sort (https://www.bigocheatsheet.com/), as we are considering the more
+dominant Big-O notation (O(n log n) > O(n)), the time complexity for this task would be O (n logn)
